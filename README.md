@@ -1,4 +1,4 @@
-#C++ CPU Ray Tracer by books of Peter Shirley
+# C++ CPU Ray Tracer by books of Peter Shirley
 
 ## Ray Tracing In One Weekend        -> https://raytracing.github.io/books/RayTracingInOneWeekend.html
 ## Ray Tracing In One Week           -> https://raytracing.github.io/books/RayTracingTheNextWeek.html
