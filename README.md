@@ -2,6 +2,6 @@
 
 
 ### Book Links
-[x] - Ray Tracing In One Weekend        -> https://raytracing.github.io/books/RayTracingInOneWeekend.html
-Ray Tracing In One Week           -> https://raytracing.github.io/books/RayTracingTheNextWeek.html
-Ray Tracing The Rest Of Your Life -> https://raytracing.github.io/books/RayTracingTheRestOfYourLife.html
+- [x] Ray Tracing In One Weekend        -> https://raytracing.github.io/books/RayTracingInOneWeekend.html
+- [x] Ray Tracing In One Week           -> https://raytracing.github.io/books/RayTracingTheNextWeek.html
+- [x] Ray Tracing The Rest Of Your Life -> https://raytracing.github.io/books/RayTracingTheRestOfYourLife.html
